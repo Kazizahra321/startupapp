@@ -1,0 +1,27 @@
+.newText{
+    text-align: center;
+    font-size: 70px;
+    font-weight: 600;
+    color:orange;
+}
+.how{
+    text-align: center;
+    padding-bottom: 50px;
+    font-weight: 600;
+    color:black;
+}
+
+
+@media (max-width: 1024px) {
+    .support {
+      flex-direction: column;
+      justify-content: center;
+      padding-top: 200px;
+      
+    }
+}
+.support{
+    background-image: url("C:\Users\admin\startupapp\public\bg9.jpeg");
+    background-repeat: no-repeat;
+      background-size: cover;
+}
